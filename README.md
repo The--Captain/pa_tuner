@@ -1,6 +1,6 @@
 Summary: 
 
-If you have a bowden machine with a .4mm nozzle, include everything from pa_tuner.cfg into your printer.cfg, run the command PA_TUNER, and watch the printer output (before or after the print takes place) for the correct forumla to calculate you pressure advance value with default arguments by measuring the best quality Z height on the resulting printed test square.  Removes the need to run a Pressure Advance tuning tower command, and other tedious nonsense associated with other Pressure Advance calibration methods.
+If you have a bowden machine with a .4mm nozzle, include everything from pa_tuner.cfg into your printer.cfg, run the command PA_TUNER, and watch the printer output (before or after the print takes place) for the correct forumla to calculate your pressure advance value with default arguments by measuring the best quality Z height on the resulting printed test square.  Removes the need to run a Pressure Advance tuning tower command, and other tedious nonsense associated with other Pressure Advance calibration methods.
 
 Details:
 
